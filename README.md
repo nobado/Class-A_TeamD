@@ -71,7 +71,9 @@ Team D – Project Materials Experiment Code, Execution Results, Experiment Envi
 
 ---
 
-> `D_subway_ad.ipynb` 첫 셀에 `pip install -r requirements.txt` 명령이 포함되어 있어,  
+`requirements.txt`는 이 프로젝트에서 사용하는 Python 라이브러리들의 **목록과 정확한 버전**이 기록된 파일입니다.
+
+`D_subway_ad.ipynb` 첫 셀에 `pip install -r requirements.txt` 명령이 포함되어 있어,  
 노트북 실행 시 자동으로 라이브러리가 설치됩니다.
 
 가상환경에서 실행하는 것을 권장합니다.
