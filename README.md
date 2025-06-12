@@ -1,6 +1,11 @@
 # Class-A_TeamD
 Team D – Project Materials Experiment Code, Execution Results, Experiment Environment Information
 
+# A_Class_TeamD_Experiment_Code.ipynb
+
+본 Jupyter Notebook 파일(`A_Class_TeamD_Experiment_Code.ipynbb`)은 **A분반 D팀의 실험 코드**를 포함하고 있습니다.  
+데이터 전처리, 클러스터링, 시각화 등 지하철역 광고 전략 수립을 위한 전체 분석 과정이 구현되어 있습니다.
+
 # Python 및 사용 라이브러리 목록
 
  Python Version: 3.10.16
